@@ -1,5 +1,5 @@
 """
-DML stands for Data Manipulation Language
+DML stands for Datta Manipulation Language
 
 This module contains generic functions to insert data into sql tables
 """
